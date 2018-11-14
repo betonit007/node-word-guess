@@ -1,0 +1,15 @@
+{
+  "name": "word-guess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim N.",
+  "license": "ISC",
+  "dependencies": {
+    "exclamation": "^0.1.0",
+    "inquirer": "^6.2.0"
+  }
+}
